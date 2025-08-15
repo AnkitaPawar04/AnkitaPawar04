@@ -1,5 +1,5 @@
-(![Banner](https://raw.githubusercontent.com/AnkitaPawar04/AnkitaPawar04/main/banner.png)
-)
+![Banner](https://raw.githubusercontent.com/AnkitaPawar04/AnkitaPawar04/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Ankita Pawar</h1>
 <h3 align="center">Web Developer & AI Enthusiast | Turning Ideas into Reality | Open Source Enthusiast</h3>
 
