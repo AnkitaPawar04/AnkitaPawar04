@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnkitaPawar04/AnkitaPawar04/main/banner.png" height="300" widhth="12000"alt="Ankita Pawar Banner">
-</p>
-
 <h1 align="center">Hi 👋, I'm Ankita Pawar</h1>
 <h3 align="center">Web Developer & AI Enthusiast | Turning Ideas into Reality | Open Source Enthusiast</h3>
 
